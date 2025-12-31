@@ -1,0 +1,8 @@
+Hostname: pop-os
+IP Address: 10.155.4.213
+MAC Address: b8:1e:a4:9d:63:5b
+Network Interfaces:
+lo               UNKNOWN        00:00:00:00:00:00 <LOOPBACK,UP,LOWER_UP> 
+enp8s0           DOWN           40:c2:ba:3c:72:cd <NO-CARRIER,BROADCAST,MULTICAST,UP> 
+wlp9s0           UP             b8:1e:a4:9d:63:5b <BROADCAST,MULTICAST,UP,LOWER_UP> 
+docker0          DOWN           ba:56:cb:8f:f0:d6 <NO-CARRIER,BROADCAST,MULTICAST,UP>
